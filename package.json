@@ -1,0 +1,17 @@
+{
+  "name": "cjs-esm-bench",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx generator.mts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tsconfig/node18": "^1.0.1",
+    "@types/node": "^18.15.7",
+    "tsx": "^3.12.6",
+    "typescript": "^5.0.2"
+  }
+}
